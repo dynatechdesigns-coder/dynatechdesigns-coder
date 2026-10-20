@@ -7,8 +7,8 @@ Currently learning cybersecurity.
 ## Featured projects
 
 - **[ProfitPocket](https://profit-pocket-tviz.vercel.app)**: bookkeeping and inventory web app for small traders. Tracks stock, sales, expenses and real profit.
-- **Toylad Concept**: live website for a catering, pastry and events business in Abuja, with a private admin page for photo uploads.
-- **RCCG Glory Arena**: website for a church parish.
+- **[Toylad Concept](https://toylad-concept.vercel.app/)**: live website for a catering, pastry and events business in Abuja, with a private admin page for photo uploads.
+- **[RCCG Glory Arena](https://glory-arena-website.vercel.app/)**: website for a church parish.
 
 ## What I work with
 
