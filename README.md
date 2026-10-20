@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Daniel Nathaniel Ayomide 👋
 
-<!--
-**dynatechdesigns-coder/dynatechdesigns-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic Designer & Web Developer based in Abuja, Nigeria.
+I design brands, build websites, and create media content that helps businesses show up online.
+Currently learning cybersecurity.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ProfitPocket](https://profit-pocket-tviz.vercel.app)**: bookkeeping and inventory web app for small traders. Tracks stock, sales, expenses and real profit.
+- **Toylad Concept**: live website for a catering, pastry and events business in Abuja, with a private admin page for photo uploads.
+- **RCCG Glory Arena**: website for a church parish.
+
+## What I work with
+
+**Design:** Photoshop · Illustrator · Lightroom · Figma
+**Web:** MongoDB · Cloudinary · Git & GitHub · Vercel
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nathaniel-daniel-652307381) · dynatechdesigns@gmail.com
