@@ -34,7 +34,7 @@ I graduated from **Prince Abubakar Audu University, Anyigba** in 2026 with an Up
 
 ## 🚀 Featured projects
 
-- **[Dynatech Labs](https://YOUR-SITE.vercel.app)**: my portfolio site with a built-in admin page
+- **[Dynatech Labs](https://dynatech-website-eight.vercel.app/)**: my portfolio site with a built-in admin page
 - **[ProfitPocket](https://profit-pocket-tviz.vercel.app)**: bookkeeping and inventory app for small traders. Tracks stock, sales, expenses and real profit
 - **[Toylad Concept](https://toylad-concept.vercel.app/)**: website for a catering, pastry and events business in Abuja, with a private admin page
 - **[RCCG Glory Arena](https://glory-arena-website.vercel.app/)**: website for a church parish
@@ -64,7 +64,7 @@ I take on logo and brand design, websites, and photography. Message me on WhatsA
 
 📧 dynatechdesigns@gmail.com
 💬 WhatsApp: 08053801610
-🌐 [Portfolio](https://YOUR-SITE.vercel.app)
+🌐 [Portfolio](https://dynatech-website-eight.vercel.app/)
 
 ---
 
