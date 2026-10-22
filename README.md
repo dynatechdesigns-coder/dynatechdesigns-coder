@@ -7,7 +7,7 @@
 **Graphic Designer · Web Developer · Photography Enthusiast**
 📍 Abuja, Nigeria
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Dynatech%20Labs-2f7bff?style=for-the-badge)](https://YOUR-SITE.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dynatech%20Labs-2f7bff?style=for-the-badge)](https://dynatech-website-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-daniel-652307381)
 [![X](https://img.shields.io/badge/X-@Dynatechdesign-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dynatechdesign)
 
