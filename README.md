@@ -21,7 +21,7 @@ I'm a graphic designer and web developer in Abuja. I design brands and print mat
 
 I'm also learning **cybersecurity**, so the sites I build are secure from the start: protected admin pages, no secrets in code, and validated inputs.
 
-I graduated from **Prince Abubakar Audu University, Anyigba** in 2026 with a Second Class Upper. I currently work as Senior Graphic Designer at **Dan-Kay Print Enterprise**.
+I graduated from **Prince Abubakar Audu University, Anyigba** in 2026 with an Upper Class. I currently work as Senior Graphic Designer at **Dan-Kay Print Enterprise**.
 
 ## 🛠️ What I do
 
